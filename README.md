@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/rayan_baghdadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayan_baghdadi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayan-baghdadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan-baghdadi" height="30" width="40" /></a>
-<a href="https://discord.gg/626908097516142602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="626908097516142602" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/626908097516142602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="626908097516142602" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
