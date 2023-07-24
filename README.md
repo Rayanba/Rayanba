@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [comming soon!](comming soon!)
+- 👨‍💻 All of my projects are available at **COMMING SOON!**
 
 - 💬 Ask me about **React, NodJS, SQL, Arduino**
 
