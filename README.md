@@ -55,5 +55,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayanba&theme=transparent" alt="rayanba" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayanba&show_icons=true&theme=transparent" alt="rayanba" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rayanba&show_icons=true&rank_icon=github&theme=transparent" alt="rayanba" /></p>
 
