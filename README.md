@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **COMMING SOON!**
 
-- 💬 Ask me about **React, NodJS, SQL, Arduino**
+- 💬 Ask me about **React, NodJS, SQL, Arduino, DA, Python**
 
 - 📫 How to reach me **connect@raybaghdadi.com**
 
